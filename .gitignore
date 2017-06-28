@@ -1,0 +1,4 @@
+# Dependency directories
+node_modules/
+platforms/android/
+bower_components/
